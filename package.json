@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/francisrodricks.playground-fork-l220ezno",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve oTqV8KTgkIMexQtl0F9a --open"
+  }
+}
